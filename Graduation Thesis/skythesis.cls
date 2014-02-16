@@ -1,6 +1,7 @@
 %%
 %% Copyright (C) 2008-09-24 by Wei-Wei Guo <wwguo@zju.edu.cn>
 %% Copyright (C) 2012-12-28 by Myau-tsai PAN <ibmmc@live.com>, Unlucky <unlucky1990@gmail.com>
+%% Copyright (C) 2014-01-30 by Sky chan <diufanshu@gmail.com>
 %% 
 %% This file may be distributed and/or modified under the conditions of
 %% the LaTeX Project Public License, either version 1.2 of this license
