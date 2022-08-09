@@ -1,8 +1,12 @@
 ## 浙江工业大学计算机学院本科毕业设计模板(非官方)
 
-本项目目前由[精弘网络团队](http://github.com/ZJUT)维护，欢迎工大的童鞋使用与贡献代码。
+## 项目迁移说明
+项目已经迁移至：[zjutthesis](https://github.com/zjutjh/zjutthesis)  
+源项目fork自[Unlucky](https://github.com/unlucky)，fork项目检索权重较低。由于项目维护转移至[精弘网络团队](https://github.com/zjutjh)，为提高检索权重，经与原作者商量，将原始项目迁移至组织内。同时Github机制不允许同一组织/个人名义下存在两个同名项目，将原项目从组织转移至个人作为备份。
 
-本项目fork于[Unlucky](http://blog.thebeyond.name)的童鞋的Repo，感谢他们的辛苦付出，附[原始模板地址](https://github.com/unlucky/zjutthesis),
+本项目目前由[精弘网络团队](https://github.com/zjutjh)维护，欢迎工大的童鞋使用与贡献代码。
+
+本项目fork于[Unlucky](http://blog.thebeyond.name)等童鞋的Repo，感谢他们的辛苦付出，附[原始模板地址](https://github.com/unlucky/zjutthesis),
 
 原始作者:
 [Unlucky](https://github.com/unlucky)
@@ -42,4 +46,4 @@
 
  - 2022届：由[CompetitiveLin](https://github.com/CompetitiveLin)更新 [原仓库](https://github.com/CompetitiveLin/zjutthesis/tree/1e6f0bf3d48deeb98a978ad1d0a499e97668d5b1)
 
-<p align="right">修改日期：2022年6月13日</p>
+<p align="right">archive日期：2022年8月9日</p>
